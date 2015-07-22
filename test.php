@@ -2,6 +2,6 @@
 
 if (true) {
     echo 'true';
-}else{
-echo 'false';
+} else {
+    echo 'false';
 }

@@ -8,7 +8,7 @@ echo 'false';
 
 if (true) {
     echo 'true';
-} else {echo 'false';
+} else {echo 'falsesd';
 }
 
 if (true) {

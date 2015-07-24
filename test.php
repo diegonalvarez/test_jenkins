@@ -1,7 +1,7 @@
 <?php
 
 if (true) {
-    echo 'true';
+    echo 'trueasd';
 } else {
 echo 'false';
 }
